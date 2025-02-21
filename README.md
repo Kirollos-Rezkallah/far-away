@@ -22,7 +22,7 @@ A simple yet powerful **React** app for travelers to manage their packing lists.
 
 ## 🌐 Try the Live Version
 
-👉 [Live Demo](#) _(https://kirollos-rezkallah.github.io/far-away/)_
+👉 [Live Demo](https://kirollos-rezkallah.github.io/far-away/)
 
 ## 💌 Contact us
 
